@@ -1,4 +1,4 @@
-#  Sentiment Analysis using NLP & Machine Learning
+#  Sentiment Analysis using NLP & Machine Learning Models
 
 This project was developed as part of my Data Science Internship (February 2026).
 
